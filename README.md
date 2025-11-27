@@ -10,7 +10,7 @@ dostupný pouze pro studijní účely.
 
 Vítáme příspěvky! Před odesláním pull requestu si prosím přečtěte:
 
-1. [LICENSE](LICENSE) - Licenční podmínky projektu
+1. [LICENSE](LICENSE.md) - Licenční podmínky projektu
 2. [CLA.md](CLA.md) - Contributor License Agreement
 
 **Důležité:** Odesláním pull requestu souhlasíte s převodem autorských 
