@@ -3,8 +3,7 @@ RaidSentinel je spolehlivý Discord bot navržený pro ochranu vašeho serveru p
 
 ## Licencování a příspěvky
 
-Tento projekt používá proprietární licenci. Zdrojový kód je veřejně 
-dostupný pouze pro studijní účely.
+Tento projekt je **proprietární** a zveřejněný "source-available" pouze pro transparentnost.
 
 ### Jak přispět
 
@@ -12,6 +11,8 @@ Vítáme příspěvky! Před odesláním pull requestu si prosím přečtěte:
 
 1. [LICENSE](LICENSE.md) - Licenční podmínky projektu
 2. [CLA.md](CLA.md) - Contributor License Agreement
+3. [CONTRIBUTING.md](CONTRIBUTING.md) - Jak přispět do projektu
+
 
 **Důležité:** Odesláním pull requestu souhlasíte s převodem autorských 
 práv na organizaci Visionary Digital Arts dle podmínek v CLA.md. 
